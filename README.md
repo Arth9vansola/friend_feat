@@ -75,5 +75,6 @@ Use simple icons or colors to represent "Friend" and "Stranger":
 ---
 
 ## Conclusion
+
 The Friend or Stranger feature enhances user experience by simplifying connection statuses and ensuring privacy controls. It provides clarity and consistency while fostering secure interactions on the platform.
 
